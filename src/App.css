@@ -1,0 +1,8 @@
+#App{
+  border: 1px red solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(225, 202, 202);
+}
